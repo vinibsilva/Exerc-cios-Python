@@ -1,0 +1,1 @@
+##Esse repositorio serve para armazenar a resolução de exercícios em python que foram propostos no site [Python Brasil](https://wiki.python.org.br/EstruturaDeDecisao)
